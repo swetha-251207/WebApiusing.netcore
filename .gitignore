@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ApiFileUpload/ApiFileUpload/bin/Debug/net8.0
+/ApiFileUpload/.vs
+/WebApiLogger/.vs
+/WebApiLogger/WebApiLogger/bin/Debug/net8.0
